@@ -1,0 +1,529 @@
+@media (min-width: 1400px) {
+    .section-heading {
+        width: 100%;
+    }
+
+    .hero-content h1 {
+        font-size: 58px;
+    }
+
+    .hero-description,.hero-stats,.hero-visual,.topic-box,.bonus-card p {
+        width: 100%;
+    }
+}
+
+@media (max-width: 1399px) {
+
+    .section-heading {
+        width: 100%;
+    }
+
+    .hero-content h1 {
+        font-size: 50px;
+    }
+
+    .hero-description,.hero-stats,.hero-visual,.topic-box,.bonus-card p {
+        width: 100%;
+    }
+}
+
+@media (max-width: 1199px) {
+
+    .section-padding {
+        padding: 80px 0;
+    }
+
+    .hero-content {
+        padding-top: 80px;
+    }
+
+    .hero-content h1 {
+        font-size: 42px;
+        letter-spacing: -2px;
+    }
+
+    .hero-description,.hero-stats,.hero-visual,.topic-box,.bonus-card p {
+        width: 100%;
+    }
+
+    .hero-visual {
+        margin: 20px auto;
+    }
+
+    .float-card {
+        padding: 9px 11px;
+    }
+
+    .core-text,.core-symbol {
+        font-size: 30px;
+    }
+
+    .topic-card {
+        padding: 20px;
+    }
+
+    .topic-card h3 {
+        font-size: 18px;
+    }
+
+    .bonus-card {
+        padding: 30px;
+    }
+
+    .quiz-shell {
+        width: 100%;
+    }
+
+    .result-score {
+        font-size: 60px;
+    }
+}
+
+@media (max-width: 991px) {
+
+    .section-padding {
+        padding: 70px 0;
+    }
+
+    .section-heading,.section-heading p {
+        width: 100%;
+    }
+
+    .section-heading h2 {
+        font-size: 36px;
+    }
+
+    .hero-content {
+        padding: 70px 0 30px;
+        text-align: center;
+    }
+
+    .hero-content h1 {
+        font-size: 42px;
+    }
+
+    .hero-description {
+        width: 100%;
+        margin: auto;
+        font-size: 15px;
+    }
+
+    .hero-stats {
+        width: 100%;
+        margin: 25px auto;
+    }
+
+    .hero-visual {
+        width: 85%;
+        margin: 20px auto;
+    }
+
+    .float-ai,
+    .float-cyber {
+        left: 0;
+    }
+
+    .float-game,.float-future {
+        right: 0;
+    }
+
+    .topic-card {
+        padding: 20px;
+    }
+
+    .topic-card h3 {
+        font-size: 18px;
+    }
+
+    .topic-card p {
+        font-size: 13px;
+    }
+
+    .bonus-card {
+        padding: 30px;
+    }
+
+    .bonus-card p {
+        width: 100%;
+    }
+
+    .quiz-shell {
+        width: 100%;
+        padding: 30px;
+    }
+
+    .topic-box {
+        width: 100%;
+    }
+
+    .question-text {
+        font-size: 19px;
+    }
+
+    .step-card {
+        padding: 22px;
+    }
+
+    .resource-card {
+        padding: 20px;
+    }
+
+    .result-score {
+        font-size: 55px;
+    }
+}
+
+@media (max-width: 767px) {
+
+    .section-padding {
+        padding: 60px 0;
+    }
+
+    .section-heading,.section-heading p {
+        width: 100%;
+    }
+
+    .section-heading h2 {
+        font-size: 32px;
+    }
+
+    .navbar {
+        padding: 12px 0;
+    }
+
+    .navbar-brand {
+        font-size: 20px;
+    }
+
+    .hero-content {
+        padding: 55px 0 25px;
+        text-align: center;
+    }
+
+    .hero-content h1 {
+        font-size: 36px;
+        letter-spacing: -1px;
+    }
+
+    .hero-description,.hero-stats {
+        width: 100%;
+    }
+
+    .hero-description {
+        font-size: 14px;
+    }
+
+    .hero-visual {
+        width: 90%;
+    }
+
+    .core-text,.core-symbol {
+        font-size: 27px;
+    }
+
+    .float-card {
+        padding: 8px;
+        gap: 6px;
+    }
+
+    .float-card > span {
+        font-size: 18px;
+    }
+
+    .float-card small {
+        font-size: 7px;
+    }
+
+    .float-card bold {
+        font-size: 10px;
+    }
+
+    .topic-card {
+        padding: 20px;
+    }
+
+    .bonus-card {
+        padding: 25px 20px;
+    }
+
+    .bonus-card p {
+        width: 100%;
+    }
+
+    .quiz-shell {
+        width: 100%;
+        padding: 22px;
+    }
+
+    .topic-box {
+        width: 100%;
+    }
+
+    .question-text {
+        font-size: 18px;
+    }
+
+    .option-btn {
+        font-size: 14px;
+        padding: 13px;
+    }
+
+    .result-score {
+        font-size: 48px;
+    }
+
+    .step-card {
+        padding: 20px;
+    }
+
+    .resource-card {
+        padding: 20px;
+    }
+}
+
+@media (max-width: 575px) {
+
+    .section-padding {
+        padding: 45px 0;
+    }
+
+    .section-heading,.section-heading p {
+        width: 100%;
+    }
+
+    .section-heading {
+        padding: 0 10px;
+    }
+
+    .section-heading h2 {
+        font-size: 27px;
+        letter-spacing: -1px;
+    }
+
+    .section-heading p {
+        font-size: 13px;
+    }
+
+    .navbar {
+        padding: 10px 0;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+    }
+
+    .nav-cta {
+        display: inline-block;
+        margin-top: 10px;
+    }
+
+    .hero-content {
+        padding: 45px 0 20px;
+        text-align: center;
+    }
+
+    .eyebrow {
+        font-size: 9px;
+        padding: 8px 10px;
+        letter-spacing: 1px;
+    }
+
+    .hero-content h1 {
+        font-size: 29px;
+        letter-spacing: -1px;
+        line-height: 1.15;
+    }
+
+    .hero-description {
+        width: 100%;
+        font-size: 13px;
+    }
+
+    .hero-stats {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .hero-stats h3 {
+        font-size: 21px;
+    }
+
+    .hero-stats p {
+        font-size: 9px;
+    }
+
+    .hero-visual {
+        width: 100%;
+        margin: 15px auto;
+    }
+
+    .core-text {
+        font-size: 21px;
+    }
+
+    .core-symbol {
+        font-size: 22px;
+    }
+
+    .float-card {
+        padding: 6px;
+        gap: 4px;
+        border-radius: 10px;
+    }
+
+    .float-card > span {
+        font-size: 14px;
+    }
+
+    .float-card small {
+        font-size: 6px;
+        letter-spacing: 0;
+    }
+
+    .float-card bold {
+        font-size: 8px;
+    }
+
+    .visual-caption {
+        font-size: 7px;
+        letter-spacing: 1px;
+    }
+
+    .topic-card {
+        padding: 17px;
+    }
+
+    .topic-card h3 {
+        font-size: 17px;
+    }
+
+    .topic-card p {
+        font-size: 12px;
+    }
+
+    .bonus-card {
+        padding: 20px 15px;
+    }
+
+    .bonus-card h2 {
+        font-size: 22px;
+    }
+
+    .bonus-card h3 {
+        font-size: 17px;
+    }
+
+    .bonus-card p {
+        width: 100%;
+        font-size: 13px;
+    }
+
+    .mini-tag {
+        font-size: 10px;
+        padding: 6px 9px;
+    }
+
+    .quiz-shell {
+        width: 100%;
+        padding: 18px 12px;
+        border-radius: 15px;
+    }
+
+    .quiz-icon,.result-icon {
+        width: 55px;
+        height: 55px;
+        font-size: 25px;
+    }
+
+    .quiz-intro h3,.quiz-result h3 {
+        font-size: 19px;
+    }
+
+    .topic-box {
+        width: 100%;
+    }
+
+    .topic-select,.form-select {
+        font-size: 13px;
+        padding: 10px;
+    }
+
+    .start-btn,.back-btn {
+        padding: 11px;
+        font-size: 13px;
+    }
+
+    .question-text {
+        font-size: 16px;
+    }
+
+    .option-btn {
+        font-size: 12px;
+        padding: 11px;
+    }
+
+    .timer-box {
+        padding: 8px;
+    }
+
+    .timer-value {
+        font-size: 19px;
+    }
+
+    .navigation-btn {
+        font-size: 10px;
+        padding: 8px 3px;
+    }
+
+    .score-card {
+        padding: 15px;
+    }
+
+    .result-score {
+        font-size: 40px;
+    }
+
+    .result-score small {
+        font-size: 15px;
+    }
+
+    .result-stat {
+        padding: 10px;
+    }
+
+    .result-stat h3 {
+        font-size: 18px;
+    }
+
+    .topic-icon {
+        font-size: 40px;
+    }
+
+    .detail-card {
+        padding: 12px;
+    }
+
+    .step-card {
+        padding: 17px;
+    }
+
+    .step-icon {
+        font-size: 30px;
+    }
+
+    .step-card h3 {
+        font-size: 17px;
+    }
+
+    .resource-card {
+        padding: 17px;
+    }
+
+    .site-footer {
+        padding: 22px 0;
+    }
+
+    .footer-text {
+        font-size: 10px;
+    }
+}
